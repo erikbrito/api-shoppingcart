@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "idCategory": 0,
+      "name": "Coca-cola lata",
+      "description": "Coca-cola lata 350ml",
+      "price": 3.50,
+      "image": "https://static.clubeextra.com.br/img/uploads/1/513/677513.jpg"
+    },
+    {
+      "id": 1,
+      "idCategory": 0,
+      "name": "Fanta uva lata",
+      "description": "Fanta uva lata 350ml",
+      "price": 3.50,
+      "image": "https://static.clubeextra.com.br/img/uploads/1/906/677906.jpg"
+    },
+    {
+      "id": 2,
+      "idCategory": 0,
+      "name": "Sprite lata",
+      "description": "Sprite lata 350ml",
+      "price": 3.50,
+      "image": "https://static.clubeextra.com.br/img/uploads/1/138/678138.jpg"
+    },
+    {
+      "id": 3,
+      "idCategory": 0,
+      "name": "Guaraná lata",
+      "description": "Guaraná lata 350ml",
+      "price": 3.00,
+      "image": "https://static.clubeextra.com.br/img/uploads/1/628/1133628.jpeg"
+    },
+    {
+      "id": 4,
+      "idCategory": 1,
+      "name": "Bolo de chocolate",
+      "description": "Bolo de chocolate com calda",
+      "price": 4.00,
+      "image": "https://www.oetker.com.br/Recipe/Recipes/oetker.com.br/br-pt/baking/image-thumb__40008__RecipeDetail/bolo-de-aniversario-de-chocolate.jpg"
+    },
+    {
+      "id": 5,
+      "idCategory": 1,
+      "name": "Brigadeiro",
+      "description": "Brigadeiro de coco",
+      "price": 0.50,
+      "image": "https://i.ytimg.com/vi/NdbTynEMA_E/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "idCategory": 1,
+      "name": "Brigadeiro de chocolate",
+      "description": "Brigadeiro de chocolate",
+      "price": 0.50,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/1200px-Brigadeiro.jpg"
+    },
+    {
+      "id": 7,
+      "idCategory": 1,
+      "name": "Bolo de cenoura",
+      "description": "Bolo de cenoura",
+      "price": 4.00,
+      "image": "https://imagem.band.com.br/novahome/055caa6d-7528-44bc-ac32-3add84bdc0b0.jpg"
+    },
+    {
+      "id": 8,
+      "idCategory": 2,
+      "name": "Coxinha de frango",
+      "description": "Coxinha de frango com catupiry",
+      "price": 3.00,
+      "image": "https://portal-amb-imgs.clubedaana.com.br/2019/04/coxinha-de-frango-da-palmirinha-600x400.jpg"
+    },
+    {
+      "id": 9,
+      "idCategory": 2,
+      "name": "Esfiha de carne",
+      "description": "Esfiha de carne assado",
+      "price": 3.00,
+      "image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-esfiha-de-carne.jpg"
+    },
+    {
+      "id": 10,
+      "idCategory": 2,
+      "name": "Pastel de carne",
+      "description": "Pastel de carne",
+      "price": 4.00,
+      "image": "https://www.portalsabores.com.br/wp-content/uploads/2013/07/Pastel-de-Carne-2.jpg"
+    },
+    {
+      "id": 11,
+      "idCategory": 2,
+      "name": "Presunto e Queijo",
+      "description": "Presunto e Queijo",
+      "price": 3.00,
+      "image": "https://i.ytimg.com/vi/ld6IAgPHMPw/maxresdefault.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Bebidas"
+    },
+    {
+      "id": 1,
+      "name": "Doces"
+    },
+    {
+      "id": 2,
+      "name": "Salgados"
+    }
+  ]
+}
